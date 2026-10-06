@@ -1,0 +1,26 @@
+# ─────────────────────────────────────────────────────────────
+# 大型/第三方产物：WorkBuddy 商业客户端的 asar 备份（>280MB）
+# 仅作为本地还原用途，不属于本仓库源码，且超出 GitHub 单文件 100MB 上限
+# ─────────────────────────────────────────────────────────────
+app.asar.orig
+*.asar
+*.asar.orig
+
+# 部署脚本运行时自动生成的备份目录（install 时按需重建）
+templates-backup/
+templates-backup-*/
+zcode-backup/
+qoder-backup/
+hermes-backup/
+codex-backup/
+
+# 常见编辑器 / 系统 / 临时文件
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+*~
+Thumbs.db
+Desktop.ini
+.DS_Store
