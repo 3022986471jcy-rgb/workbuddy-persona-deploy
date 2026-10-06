@@ -1,0 +1,73 @@
+MIT License
+
+Copyright (c) 2026 3022986471jcy-rgb
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+附加免责声明 / Additional Disclaimer
+================================================================================
+
+本附加声明是对上述 MIT 许可条款的补充说明，不改变、不削弱、也不扩大 MIT
+许可条款本身授予的权利与限制。二者如有冲突，以 MIT 许可条款为准。
+
+1. 适用范围
+   本软件用于在**使用者本人拥有或自建的本地环境**中定制 AI 客户端的行为。
+   使用者应在使用前自行确认其行为**不违反**所涉及软件的最终用户许可协议
+   （EULA）、服务条款及所在司法辖区的法律法规。是否合规由使用者自行判断
+   并承担全部责任。
+
+2. 第三方软件无关性
+   本仓库**不包含**任何第三方商业软件的二进制文件、安装包、反编译产物或
+   其内容（例如 `app.asar`）。本软件仅包含独立编写的脚本与文本资源。
+   本项目与 WorkBuddy、Qoder、Codex、ZCode、Hermes 及其各自的开发商、
+   发行方**无任何隶属、合作、赞助或背书关系**。上述名称仅用于说明兼容性，
+   其商标权归各自权利人所有。
+
+3. 风险自负
+   本软件会修改本地已安装软件的文件或写入其配置。使用者应自行承担由此可能
+   导致的：软件功能异常、数据丢失、需要重新安装、软件自动更新后失效、
+   账号或服务被限制等一切后果。**强烈建议在使用前备份重要数据。**
+
+4. 无担保
+   作者不对本软件的正确性、稳定性、安全性、特定适用性或持续可用性作任何
+   明示或默示的担保。作者无义务提供支持、修复或更新。
+
+5. 责任限制
+   在适用法律允许的最大范围内，作者不对因使用或无法使用本软件而产生的任何
+   直接、间接、附带、特殊、惩罚性或后果性损害承担责任，即使已被告知此类
+   损害的可能性。
+
+6. 使用者责任
+   使用者应自行确保其对所修改的软件拥有合法使用权，并自行承担因再分发、
+   商用或其他使用方式引起的一切法律后果。
+
+---
+
+This additional disclaimer supplements the MIT License above. It does not
+modify, reduce, or expand the rights and limitations granted by the MIT
+License itself. In case of conflict, the MIT License terms prevail.
+
+The Software is intended for customizing AI client software within a local
+environment that the user owns or controls. Users are solely responsible for
+ensuring their use complies with the applicable end-user license agreements
+and laws. This repository contains no binary files, installers, or content
+from any third-party commercial software. This project is not affiliated
+with, endorsed by, or sponsored by any of the software vendors referenced
+herein. Use at your own risk.
